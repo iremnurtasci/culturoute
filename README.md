@@ -20,7 +20,7 @@ Culturoute, Europeana API'sini kullanarak Avrupa'nın çeşitli ülkelerindeki m
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
-**Not:** Bu proje node_modules klasörünü içermez. Bu klasör, aşağıdaki adımlarda `npm install` komutu çalıştırıldığında otomatik olarak oluşturulacaktır.
+**Not:** Bu proje node_modules klasörünü içermez. Klasör, aşağıdaki adımlarda `npm install` komutu çalıştırıldığında otomatik olarak oluşturulacaktır.
 
 ### Gereksinimler
 
